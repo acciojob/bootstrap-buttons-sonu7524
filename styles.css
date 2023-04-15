@@ -1,2 +1,13 @@
-
+#button-2{
+	border: 2px solid black;
+}
+#button-3{
+	padding: 10px;
+}
+#button-4{
+	padding: 0 5px;
+}
+#button-5{
+	width: 100%;
+}
 /* Your CSS Code here. */
